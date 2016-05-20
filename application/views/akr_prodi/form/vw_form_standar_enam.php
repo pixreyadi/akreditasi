@@ -4,34 +4,16 @@
 <div class="col-md-12 content-data">
 	<div class="col-md-12 box">
 		<div class="box-header">
-			<i class="fa fa-list"></i> <b>Form Standar 6</b>
+			<i class="fa fa-list"></i> <b>Form Standar 6.1</b>
 		</div>
 		<div class="col-md-12 box-content">
 			<div class="form-group">
 	            <input type="hidden" id="profil" />
-	            <label for="exampleInputEmail1">Bla bla bla</label>
-	            <textarea class="form-control" rows="2" placeholder="Masukkan Mekanisme Penyusunan ..."></textarea>
+				<p>Keterlibatan aktif program studi harus tercerminkan dalam dokumen tentang proses perencanaan, pengelolaan dan pelaporan serta pertanggungjawaban penggunaan dana kepada pemangku kepentingan melalui mekanisme yang transparan dan akuntabel</p>
+	            <label for="exampleInputEmail1">Pengelolaan Dana</label>
+	            <textarea class="form-control" rows="2" placeholder="Jelaskan keterlibatan PS dalam perencanaan anggaran dan pengelolaan dana"></textarea>
 			</div>
-			<div class="form-group">
-				<label for="exampleInputEmail1">Visi</label>
-				<textarea class="form-control" rows="2" placeholder="Masukkan Visi ..."></textarea>
-			</div>
-			<div class="form-group">
-				<label for="exampleInputEmail1">Misi</label>
-				<textarea class="form-control" rows="2" placeholder="Masukkan Misi ..."></textarea>
-			</div>
-			<div class="form-group">
-				<label for="exampleInputEmail1">Tujuan</label>
-				<textarea class="form-control" rows="2" placeholder="Masukkan Tujuan ..."></textarea>
-			</div>
-			<div class="form-group">
-				<label for="exampleInputEmail1">Sasaran dan Strategi Pencapaian</label>
-				<textarea class="form-control" rows="2" placeholder="Masukkan Sasaran dan Strategi Pencapaian ..."></textarea>
-			</div>
-			<div class="form-group">
-				<label for="exampleInputEmail1">Sosialisasi - Upaya penyebaran/sosialisasi visi, misi dan program studi serta pemahaman sivitas akademika (dosen dan mahasiswa) dan tenaga pendidikan</label>
-				<textarea class="form-control" rows="2" placeholder="Masukkan Sosialisasi ..."></textarea>
-			</div>
+			
 			<div class="col-md-12 box-content">
 				<hr />
 				<input type="submit" class="btn btn-success" id="simpan" value="Simpan" />

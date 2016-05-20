@@ -3,7 +3,7 @@
 </div>
 <div class="col-md-12 content-data">
 	<div class="col-md-12 box">
-		<div class="box-header"><b>Daftar Borang Standar 6</b>
+		<div class="box-header"><b>Standar 6.1 Pengelolaan Dana</b>
 			<a href="<?php echo site_url('akr_prodi/standarEnam/formStandarEnam/tambah'); ?>" class="btn btn-success" style="padding-top:2px;padding-bottom:2px;font-size:8pt;float:right;margin-top:10px;margin-right:10px;" >Tambah</a>
 		</div>
 		<div class="col-md-12 box-content">
@@ -11,13 +11,8 @@
 				<table id="example" class="table table-striped table-bordered">
 					<thead>
 					<tr>
-					<th>Mekanisme Penyusunan</th>
-					<th>Visi</th>
-					<th>Misi</th>
-					<th>Tujuan</th>
-					<th>Sasaran</th>
-					<th>Sosialisasi</th>
-					<th>Aksi</th>
+					<th>Pengelolaan Dana</th>
+					
 					</tr>
 					</thead>
 					<tbody>
